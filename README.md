@@ -21,11 +21,16 @@ python inference.py --path=input/example_standing.jpg --model=II --framework=tfl
 - Then that helper.display_position were called in annotate_image annotate_video methods in inference.py
 - The output were shown in the terminal as well as on the image output in the input folder.
 # Results
-- For the standing the image which I feeded were,
-![Feeded Standing](https://github.com/hASEEBjAN/Position_detrection_using_Posenet_and_body_position_analsysis/blob/main/input/example_standing.jpg)
-and the output which the model gave were,
-![Get Standing](https://github.com/hASEEBjAN/Position_detrection_using_Posenet_and_body_position_analsysis/blob/main/input/example_standing_tracked.png)
-- For the sitting the image which were feeded,
-![Feed Sitting](https://github.com/hASEEBjAN/Position_detrection_using_Posenet_and_body_position_analsysis/blob/main/input/sitting.jpg)
-and the output were,
-![getted sitting](https://github.com/hASEEBjAN/Position_detrection_using_Posenet_and_body_position_analsysis/blob/main/input/sitting_tracked.png).
+- For the standing the image which I feeded were, 
+ 
+<img src="https://github.com/hASEEBjAN/Position_detrection_using_Posenet_and_body_position_analsysis/blob/main/input/example_standing.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />  <br/>
+and the output which the model gave were, 
+
+<img src="https://github.com/hASEEBjAN/Position_detrection_using_Posenet_and_body_position_analsysis/blob/main/input/example_standing_tracked.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" /> 
+
+- For the sitting the image which were feeded, 
+
+<img src="https://github.com/hASEEBjAN/Position_detrection_using_Posenet_and_body_position_analsysis/blob/main/input/sitting.jpg" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />  <br/> 
+and the results were, 
+
+<img src="https://github.com/hASEEBjAN/Position_detrection_using_Posenet_and_body_position_analsysis/blob/main/input/sitting_tracked.png" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
